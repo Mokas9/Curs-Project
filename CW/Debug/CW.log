@@ -1,0 +1,8 @@
+﻿  ProductOperation.cpp
+d:\!library\projects c++\cw\cw\productoperation.cpp(59): warning C4018: '<': signed/unsigned mismatch
+d:\!library\projects c++\cw\cw\productoperation.cpp(79): warning C4018: '>': signed/unsigned mismatch
+d:\!library\projects c++\cw\cw\productoperation.cpp(107): warning C4018: '>': signed/unsigned mismatch
+d:\!library\projects c++\cw\cw\productoperation.cpp(273): warning C4018: '<': signed/unsigned mismatch
+d:\!library\projects c++\cw\cw\productoperation.cpp(274): warning C4018: '<': signed/unsigned mismatch
+  CW.vcxproj -> D:\!Library\Projects C++\CW\Debug\CW.exe
+  CW.vcxproj -> D:\!Library\Projects C++\CW\Debug\CW.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+admin admin admin
+guest guest guest
+2 1 admin
+user user guest
+mokas mokas admin
